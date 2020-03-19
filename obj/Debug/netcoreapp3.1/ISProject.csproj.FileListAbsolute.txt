@@ -371,3 +371,8 @@
 /home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Sell/Details.cshtml.g.cs
 /home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Sell/Edit.cshtml.g.cs
 /home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Sell/Index.cshtml.g.cs
+/home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Seller/Create.cshtml.g.cs
+/home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Seller/Delete.cshtml.g.cs
+/home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Seller/Details.cshtml.g.cs
+/home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Seller/Edit.cshtml.g.cs
+/home/kike/Documents/Projects/IS/obj/Debug/netcoreapp3.1/Razor/Views/Seller/Index.cshtml.g.cs
